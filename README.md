@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @AloneVera
-- 👀 I’m interested in Art/coding
-- 🌱 I’m currently learning c++/c#/Unity
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @LatteAloeVera
+- 👀 I’m interested in Art/Games/Blender
+- 🌱 I’m currently learning java/c#/Unity
 - 📫 I’m living in the <Mt. Ebott>
